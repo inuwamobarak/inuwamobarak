@@ -6,17 +6,11 @@
 
 # Tech Stack
 ## Languages
-* Python
-* SQL
-* R
+* Python | SQL | SQL | R
 ## Tools
-* PyTorch
-* TwnsorFlow
-* Sci-Kit learn
+* PyTorch | TwnsorFlow | Sci-Kit learn
 ## Environments 🌱
-* Google Colab
-* Anaconda
-* PyCharm/VS Code/RStudio
+* Google Colab | Anaconda | PyCharm | VS Code | RStudio
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
