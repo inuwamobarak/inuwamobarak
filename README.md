@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @inuwamobarak
-- 👀 I’m interested in Data Science, AI, Machine learning and Analytics.
+- 👋 Hi, I’m @inuwamobarak welcome to my GitHub.
+- 👀 I’m interested in Data Science, Machine learning and Analytics projects.
 - 💞️ I’m looking to collaborate and learn more from interesting projects.
 - 📫 You could send me an email: inuwamobarak@gmail.com. Cheers to meeting you.
-- 🌱 You could also read some of my articles on https://www.analyticsvidhya.com/blog/author/inuwamobarak/
+- 🌱 You could also read some of my shared knowledge on https://www.analyticsvidhya.com/blog/author/inuwamobarak/
 
 # Tech Stack 🌱
 Top tech stacks
