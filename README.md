@@ -7,11 +7,12 @@
 # Tech Stack 🌱
 Top tech stacks
 
-| Languages     | Tools         | Environment  |
+| Languages     | Frameworks    | Environment  |
 | ------------- |:-------------:| ------------:|
 | Python        | PyTorch       | Google Colab |
 | SQL           | TensorFlow    | Anaconda     |
 | R             | Sci-kit Learn | PyCharm      |
+| C++           | OpenCV        |              |
 
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
