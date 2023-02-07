@@ -12,7 +12,7 @@ Top tech stacks
 | Python        | PyTorch       | Google Colab |
 | SQL           | TensorFlow    | Anaconda     |
 | R             | Sci-kit Learn | PyCharm      |
-| C++           | OpenCV        | DBweaver     |
+| C++           | OpenCV        | DBeaver     |
 | PHP           | Keras         | MlFlow       |
 
 <!---
