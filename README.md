@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @inuwamobarak welcome to my GitHub.
-- 👀 I’m interested in Data Science, Machine learning and Analytics projects.
-- 💞️ I’m looking to collaborate and learn more from interesting projects.
+- 👀 I’m interested in Data Science, Machine learning and Analytics.
+- 💞️ I’m looking to learn and grow from interesting collaborations.
 - 📫 You could send me an email: inuwamobarak@gmail.com. Cheers to meeting you.
 - 🌱 You could also read some of my shared knowledge on https://www.analyticsvidhya.com/blog/author/inuwamobarak/
-
+- My website http://www.mobarak.strikingly.com
 # Tech Stack 🌱
 Top tech stacks
 
@@ -12,7 +12,8 @@ Top tech stacks
 | Python        | PyTorch       | Google Colab |
 | SQL           | TensorFlow    | Anaconda     |
 | R             | Sci-kit Learn | PyCharm      |
-| C++           | OpenCV        |              |
+| C++           | OpenCV        | DBweaver     |
+| PHP           | Keras         | MlFlow       |
 
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
