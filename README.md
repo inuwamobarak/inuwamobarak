@@ -12,9 +12,9 @@ Top tech stacks
 | Python        | PyTorch       | Google Colab |
 | SQL           | TensorFlow    | Anaconda     |
 | R             | Sci-kit Learn | PyCharm      |
-| C++           | OpenCV        | DBeaver     |
+| C++           | OpenCV        | DBeaver      |
 | PHP           | Keras         | MlFlow       |
-
+|               | NLTK          |              |
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
