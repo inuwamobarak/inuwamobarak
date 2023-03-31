@@ -1,4 +1,5 @@
 
+
 - 👋 Hi, I’m @inuwamobarak welcome to my GitHub repo.
 - 📫 You could send me an email: inuwamobarak@gmail.com. Cheers to meeting you.
 - 🌱 You could also read some of my shared knowledge on https://www.analyticsvidhya.com/blog/author/inuwamobarak/
@@ -29,6 +30,7 @@ Top tech stacks
 * [Amazon Sagemaker Tool for MLOps](https://www.analyticsvidhya.com/blog/2022/11/amazon-sagemaker-tool-for-mlops/)
 * [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
 * [Read More...](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
+* [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
 
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
