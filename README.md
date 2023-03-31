@@ -1,9 +1,5 @@
-
-
-- 👋 Hi, I’m @inuwamobarak welcome to my GitHub repo.
-- 📫 You could send me an email: inuwamobarak@gmail.com. Cheers to meeting you.
-- 🌱 You could also read some of my shared knowledge on https://www.analyticsvidhya.com/blog/author/inuwamobarak/
-- 👀 My website here https://mobarak.mystrikingly.com
+👋 I am Inuwa Mobarak, welcome to my GitHub. I am excited by data, maths, and stats and the practice of making them do things together. I am open to tasks and projects in the data field, reach me lets discuss on any of my socials in my profile at your right.
+- 🌱 My website here https://mobarak.mystrikingly.com
 
 # Interest 💞️
 * Data Science
@@ -23,14 +19,14 @@ Top tech stacks
 | PHP           | Keras         | MlFlow       |
 | Java          | NLTK          |              |
 
-# Latest Blog Post 💞️
+# Latest Blog Post 📫
 
 * [Deep Learning in Banking: Colombian Peso Banknote Detection](https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)
 * [An Introduction to Nature-inspired Optimization Algorithms (NIOAs)](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-nature-inspired-optimization-algorithms-nioas/)
 * [Amazon Sagemaker Tool for MLOps](https://www.analyticsvidhya.com/blog/2022/11/amazon-sagemaker-tool-for-mlops/)
 * [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
 * [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
-* [Read More...](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
+* [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
 
 <!---
