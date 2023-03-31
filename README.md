@@ -24,7 +24,7 @@ Top tech stacks
 
 # Latest Blog Post
 
-[Deep Learning in Banking: Colombian Peso Banknote Detection](https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)
+* [Deep Learning in Banking: Colombian Peso Banknote Detection](https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)
 
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
