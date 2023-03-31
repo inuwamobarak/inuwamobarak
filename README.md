@@ -25,6 +25,9 @@ Top tech stacks
 # Latest Blog Post
 
 * [Deep Learning in Banking: Colombian Peso Banknote Detection](https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)
+* [An Introduction to Nature-inspired Optimization Algorithms (NIOAs)](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-nature-inspired-optimization-algorithms-nioas/)
+* [Amazon Sagemaker Tool for MLOps](https://www.analyticsvidhya.com/blog/2022/11/amazon-sagemaker-tool-for-mlops/)
+* [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
 
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
