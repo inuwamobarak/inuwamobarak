@@ -1,8 +1,15 @@
-# DATA SCIENTIST / MACHINE LEARNING ENGINEER / COMPUTER VISION ENGINEER
+
 - 👋 Hi, I’m @inuwamobarak welcome to my GitHub repo.
 - 📫 You could send me an email: inuwamobarak@gmail.com. Cheers to meeting you.
 - 🌱 You could also read some of my shared knowledge on https://www.analyticsvidhya.com/blog/author/inuwamobarak/
 - 👀 My website here https://mobarak.mystrikingly.com
+
+# Interest
+* Data Science
+* Machine Learning
+* Data Analysis
+* Image Processing
+
 # Tech Stack 🌱
 Top tech stacks
 
