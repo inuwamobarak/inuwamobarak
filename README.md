@@ -21,6 +21,11 @@ Top tech stacks
 | C++           | OpenCV        | DBeaver      |
 | PHP           | Keras         | MlFlow       |
 | Java          | NLTK          |              |
+
+# Latest Blog Post
+
+(https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)[Deep Learning in Banking: Colombian Peso Banknote Detection]
+
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
