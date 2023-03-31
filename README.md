@@ -29,8 +29,9 @@ Top tech stacks
 * [An Introduction to Nature-inspired Optimization Algorithms (NIOAs)](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-nature-inspired-optimization-algorithms-nioas/)
 * [Amazon Sagemaker Tool for MLOps](https://www.analyticsvidhya.com/blog/2022/11/amazon-sagemaker-tool-for-mlops/)
 * [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
-* [Read More...](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 * [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
+* [Read More...](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
+
 
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
