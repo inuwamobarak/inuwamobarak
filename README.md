@@ -1,4 +1,5 @@
 👋 I am Inuwa Mobarak, welcome to my GitHub. I am excited by data, maths, and stats and the practice of making them do things together. I am open to tasks and projects in the data field, reach me lets discuss on any of my socials in my profile at your right.
+
 - 🌱 My website here https://mobarak.mystrikingly.com
 
 # Interest 💞️
@@ -32,6 +33,7 @@ Top tech stacks
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️
 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️
