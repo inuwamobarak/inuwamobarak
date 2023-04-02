@@ -1,6 +1,6 @@
 👋
 
-I am Inuwa Mobarak, welcome to my GitHub. I am excited by data, maths, and stats and the practice of making them do things together. I am open to tasks and projects in the data field, reach me lets discuss on any of my socials in my profile at your right.
+I am Inuwa Mobarak, welcome to my GitHub. I am excited by data, maths, and stats and the practice of making them do things together. I am open to tasks and projects in the data field. Reach me let's discuss on any of my socials.
 
 - 🌱 My website here https://mobarak.mystrikingly.com
 
