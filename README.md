@@ -1,6 +1,6 @@
 👋
 
-I am Inuwa Mobarak, welcome to my GitHub. I am excited by data, maths, and stats and the practice of making them do things together. I am open to tasks and projects in the data field. Reach me let's discuss on any of my socials.
+I am excited by data, maths, and stats and the practice of making them do things together. I am open to tasks and projects in the data field. Reach me let's discuss on any of my socials.
 
 - 🌱 My website here https://mobarak.mystrikingly.com
 
@@ -39,5 +39,6 @@ You can click the Preview link to take a look at your changes.
 --->
 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️
 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️
+I am a currently open to data roles curretly.
 
 When I am not coding or looking at data, I read books like [The Solitaire Mystery](https://en.wikipedia.org/wiki/The_Solitaire_Mystery)
