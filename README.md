@@ -41,6 +41,6 @@ You can click the Preview link to take a look at your changes.
 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️💞️ 💞️ 💞️ 💞️ 💞️
 
 
-I like fishing, swimming, and playing jazz drum.
+I like fishing, swimming, and playing jazz drums.
 
 When I am not coding or looking at data, I read books like [The Solitaire Mystery](https://en.wikipedia.org/wiki/The_Solitaire_Mystery)
