@@ -8,6 +8,7 @@ I am excited by data, maths, and stats and the practice of making them do things
 * Data Science
 * Machine Learning
 * Image Processing
+* Text Processing
 * Data Analysis
 
 # Tech Stack 🌱
