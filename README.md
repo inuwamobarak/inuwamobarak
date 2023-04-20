@@ -7,11 +7,11 @@ I am excited by data, maths, and stats and the practice of making them do things
 # Interest 💞️
 * Data Science
 * Machine Learning
-* Data Analysis
 * Image Processing
+* Data Analysis
 
 # Tech Stack 🌱
-Top tech stacks
+Favorite tech stacks
 
 | Languages     | Frameworks    | Environment  |
 | ------------- |:-------------:| ------------:|
