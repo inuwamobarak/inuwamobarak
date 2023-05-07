@@ -1,6 +1,6 @@
 👋
 
-I am excited by data, maths, and stats and the practice of making them do things together. I am open to tasks and projects in the data field. Reach me let's discuss on any of my socials.
+I am excited by data, maths, and stats and the practice of making them do things together - Business solutions
 
 - 🌱 My website here https://mobarak.mystrikingly.com
 
@@ -23,7 +23,7 @@ Favorite tech stacks
 | PHP           | Keras         | MlFlow       |
 | Java          | NLTK          |              |
 
-# Latest Blog Post 📫
+# Blog Posts 📫
 
 * [Deep Learning in Banking: Colombian Peso Banknote Detection](https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)
 * [An Introduction to Nature-inspired Optimization Algorithms (NIOAs)](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-nature-inspired-optimization-algorithms-nioas/)
