@@ -23,7 +23,7 @@ Favorite tech stacks
 | R             | Sci-kit Learn | PyCharm      |
 | C++           | OpenCV        | DBeaver      |
 | PHP           | Keras         | MlFlow       |
-| Java          | NLTK          |              |
+| Java          | NLTK          | Hugging Face |
 
 # Data Science Blog Posts 📫
 
