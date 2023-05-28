@@ -34,7 +34,6 @@ Favorite tech stacks
 * [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
 * [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
-
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
