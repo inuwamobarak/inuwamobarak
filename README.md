@@ -2,7 +2,7 @@
 
 I am excited by data, maths, and stats and the practice of making them do things together - Business solutions
         
-Currently researching Generative AI and Stable Diffusion with @HuggingFace. Also, the all new @PandasAI.
+Currently researching Generative AI and Stable Diffusion with @HuggingFace. Also, the all new @PandasAI. 
 
 - 🌱 My website here https://mobarak.mystrikingly.com
 
