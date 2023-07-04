@@ -25,7 +25,7 @@ Favorite tech stacks
 | PHP           | Keras         | MlFlow       |
 | Java          | NLTK          | Hugging Face |
 
-# Data Science Blog Posts 📫
+# Data Science Blog Posts 📫  
 
 * [Deep Learning in Banking: Colombian Peso Banknote Detection](https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)
 * [An Introduction to Nature-inspired Optimization Algorithms (NIOAs)](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-nature-inspired-optimization-algorithms-nioas/)
