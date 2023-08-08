@@ -4,7 +4,7 @@ I am passionate about data, mathematics, and statistics, and I love leveraging t
 
 Currently, my research focuses on Generative AI and Stable Diffusion in collaboration with @HuggingFace. I'm also excited about exploring the capabilities of the all-new @PandasAI.
 
-🌱 You can find my personal website [here](https://mobarak.mystrikingly.com).
+🌱 You can find my personal website [here](https://www.datascienceportfol.io/mobarak).
 
 ## Interests 💞️
 My interests lie in the following areas:
