@@ -28,7 +28,7 @@ Here are some of my favorite tech stacks:
 | PHP       | Keras         | MlFlow       |
 | Java      | NLTK          | Hugging Face |
 
-## Data Science Blog Posts 📫
+## Data Science Blog 📫
 I have written several blog posts on data science. Here are some of my recent articles:
 
 - [Introducing PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
