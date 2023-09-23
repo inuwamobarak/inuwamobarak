@@ -1,24 +1,21 @@
 # Hello! Welcome to my GitHub profile! 👋
 
-I am passionate about data, mathematics, and statistics, and I love leveraging them to create impactful business solutions.
+Using data, applied mathematics, and statistics, to create impactful business solutions.
 
-Currently, my research focuses on Generative AI and Stable Diffusion in collaboration with @HuggingFace. I'm also excited about exploring the capabilities of the all-new @PandasAI.
+Research focuses on Generative AI and Stable Diffusion in collaboration with @HuggingFace.
 
-🌱 You can find my personal website [here](https://www.datascienceportfol.io/mobarak).
+
 
 ## Interests 💞️
-My interests lie in the following areas:
-
+- LLMs
+- Stable Diffusion
 - Machine Learning
-- Generative AI
-- Computer Vision
+- AI/Generative AI
 - Image Processing
 - Natural Language Processing
 - Data Analysis
 
 ## Tech Stack 🌱
-Here are some of my favorite tech stacks:
-
 | Languages | Frameworks    | Environment  |
 | --------- |:-------------:| ------------:|
 | Python    | PyTorch       | Google Colab |
@@ -28,9 +25,7 @@ Here are some of my favorite tech stacks:
 | PHP       | Keras         | MlFlow       |
 | Java      | NLTK          | Hugging Face |
 
-## Data Science Blog 📫
-I have written several blog posts on data science. Here are some of my recent articles:
-
+## Publications 📫
 - [Introducing PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
 - [Vision Transformers (ViT) in Image Captioning Using Pretrained ViT Models](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/)
 - [Image-to-Image Generation Using depth2img Pre-Trained Models](https://www.analyticsvidhya.com/blog/2023/05/image-to-image-generation-using-depth2img-pre-trained-models/)
@@ -42,8 +37,6 @@ I have written several blog posts on data science. Here are some of my recent ar
 - [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
 - [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
 - [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
-
-Feel free to explore these articles and leave comments if you find them interesting or have any questions!
 
 <!---
 inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
