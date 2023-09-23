@@ -1,9 +1,8 @@
 # Hello! Welcome to my GitHub profile! 👋
 
-Using data, applied mathematics, and statistics, to create impactful business solutions.
+### Using data, applied mathematics, and statistics, to create impactful business solutions.
 
 Research focuses on Generative AI and Stable Diffusion in collaboration with @HuggingFace.
-
 
 
 ## Interests 💞️
