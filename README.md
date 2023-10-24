@@ -1,10 +1,11 @@
-# Hello! Welcome to my GitHub profile! 👋
+# Hello!👋
 
-### Using data, applied mathematics, and statistics, to create impactful business solutions.
+I am Mobarak, I live in Nigeria and I work as an AI engineer @Zarttech
 
-Research focuses on Generative AI and Stable Diffusion in collaboration with @HuggingFace.
+I work with the edge cutting AI models in HuggingFace and LLMs base models
 
-
+<!---I also have a passion for researching and sharing knowledge with the community. So far, I have published and added the following peer-reviewed tech articles to Analytics Vidhya:--->
+<!---
 ## Interests 💞️
 - LLMs
 - Stable Diffusion
@@ -23,7 +24,7 @@ Research focuses on Generative AI and Stable Diffusion in collaboration with @Hu
 | C++       | OpenCV        | DBeaver      |
 | PHP       | Keras         | MlFlow       |
 | Java      | NLTK          | Hugging Face |
-
+--->
 ## Publications 📫
 - [Introducing PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
 - [Vision Transformers (ViT) in Image Captioning Using Pretrained ViT Models](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/)
