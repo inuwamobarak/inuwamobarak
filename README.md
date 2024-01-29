@@ -16,21 +16,27 @@ Tools: ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square
 - NLP Enchantments
 - Data Alchemy
 
-## 📝 Magical Chronicles
-- [Introducing PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
-- [Vision Transformers (ViT) in Image Captioning Using Pretrained ViT Models](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/)
-- [Image-to-Image Generation Using depth2img Pre-Trained Models](https://www.analyticsvidhya.com/blog/2023/05/image-to-image-generation-using-depth2img-pre-trained-models/)
-- [Guide to Image-to-Image Diffusion: A Hugging Face Pipeline](https://www.analyticsvidhya.com/blog/2023/05/how-to-generate-images-using-stable-diffusion/)
+<details>
+  <summary>📝 Magical Chronicles</summary>
+  - [Introducing PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
+  - [Vision Transformers (ViT) in Image Captioning Using Pretrained ViT Models](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/)
+  - [Image-to-Image Generation Using depth2img Pre-Trained Models](https://www.analyticsvidhya.com/blog/2023/05/image-to-image-generation-using-depth2img-pre-trained-models/)
+  - [Guide to Image-to-Image Diffusion: A Hugging Face Pipeline](https://www.analyticsvidhya.com/blog/2023/05/how-to-generate-images-using-stable-diffusion/)
+</details>
 
 ## 🏆 Magical Achievements
 - Profile Visits: ![Profile Visits Badge](https://badges.pufler.dev/visits/inuwamobarak/inuwamobarak?color=black&logo=github)
 - Total Stars: ![Total Stars Badge](https://badges.pufler.dev/stars/inuwamobarak/inuwamobarak?color=black&logo=github)
 
-## 🎓 Sorcerer's Apprenticeship
-- [Your University Degree and Details]
+<details>
+  <summary>🎓 Sorcerer's Apprenticeship</summary>
+  - [Your University Degree and Details]
+</details>
 
-## 📊 GitHub Spellbook
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inuwamobarak&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark)
+<details>
+  <summary>📊 GitHub Spellbook</summary>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inuwamobarak&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark)
+</details>
 
 ## 🌟 Personal Enchantment
 Beyond the magical realms of technology, I find joy in fishing, swimming, and playing jazz drums. These activities serve as a perfect counterbalance to my technical incantations.
