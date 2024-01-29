@@ -28,13 +28,7 @@ I'm Mobarak, an AI Engineer at Zarttech, based in Nigeria. 🌍 I specialize in 
 Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 Frameworks: ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 Tools: ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 🏆 Achievements
-- Profile Visits: ![Profile Visits Badge](https://badges.pufler.dev/visits/inuwamobarak/inuwamobarak?color=black&logo=github)
-- Total Stars: ![Total Stars Badge](https://badges.pufler.dev/stars/inuwamobarak/inuwamobarak?color=black&logo=github)
-
-## 🎓 Education
-- [Your University Degree and Details]
+AI/ML/DS: ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white)
 
 ## 🎵 Personal Touch
 Beyond technology, I find joy in fishing, swimming, and playing jazz drums. 🎶 They provide a balance to my technical pursuits and keep me inspired.
