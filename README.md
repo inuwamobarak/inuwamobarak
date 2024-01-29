@@ -1,52 +1,42 @@
-# Hello!👋
+# Hi there! 👋
 
-I am Mobarak, I live in Nigeria and I work as an AI engineer @Zarttech
+I'm Mobarak, an AI engineer from Nigeria working on cutting-edge AI models at Zarttech. My expertise revolves around Large Language Models (LLMs) within the HuggingFace ecosystem. 🌐
 
-I work with the edge cutting AI models in HuggingFace and LLMs base models
+## 🔧 Tech Stack
+Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Frameworks: ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+Tools: ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<!---I also have a passion for researching and sharing knowledge with the community. So far, I have published and added the following peer-reviewed tech articles to Analytics Vidhya:--->
-<!---
-## Interests 💞️
+## 🚀 Professional Focus
 - LLMs
 - Stable Diffusion
 - Machine Learning
-- AI/Generative AI
+- Generative AI
 - Image Processing
-- Natural Language Processing
+- NLP
 - Data Analysis
 
-## Tech Stack 🌱
-| Languages | Frameworks    | Environment  |
-| --------- |:-------------:| ------------:|
-| Python    | PyTorch       | Google Colab |
-| SQL       | TensorFlow    | Anaconda     |
-| R         | Sci-kit Learn | PyCharm      |
-| C++       | OpenCV        | DBeaver      |
-| PHP       | Keras         | MlFlow       |
-| Java      | NLTK          | Hugging Face |
---->
-## Publications 📫
+## 📝 Academic Contributions
 - [Introducing PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
 - [Vision Transformers (ViT) in Image Captioning Using Pretrained ViT Models](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/)
 - [Image-to-Image Generation Using depth2img Pre-Trained Models](https://www.analyticsvidhya.com/blog/2023/05/image-to-image-generation-using-depth2img-pre-trained-models/)
 - [Guide to Image-to-Image Diffusion: A Hugging Face Pipeline](https://www.analyticsvidhya.com/blog/2023/05/how-to-generate-images-using-stable-diffusion/)
-- [Deep Learning for Fashionistas: African Attire Detection](https://www.analyticsvidhya.com/blog/2023/04/deep-learning-for-fashionistas-african-attire-detection/)
-- [Deep Learning in Banking: Colombian Peso Banknote Detection](https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)
-- [An Introduction to Nature-inspired Optimization Algorithms (NIOAs)](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-nature-inspired-optimization-algorithms-nioas/)
-- [Amazon Sagemaker Tool for MLOps](https://www.analyticsvidhya.com/blog/2022/11/amazon-sagemaker-tool-for-mlops/)
-- [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
-- [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
-- [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
-<!---
-inuwamobarak/inuwamobarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🏆 Achievements
+- Profile Visits: ![Profile Visits Badge](https://badges.pufler.dev/visits/inuwamobarak/inuwamobarak?color=black&logo=github)
+- Total Stars: ![Total Stars Badge](https://badges.pufler.dev/stars/inuwamobarak/inuwamobarak?color=black&logo=github)
 
-In addition to my professional interests, I also enjoy fishing, swimming, and playing jazz drums. They provide a balance to my technical pursuits and keep me inspired.
+## 🎓 Education
+- [Your University Degree and Details]
 
-When I'm not coding or diving into data, I find solace in books like [The Solitaire Mystery](https://en.wikipedia.org/wiki/The_Solitaire_Mystery). It's fascinating to explore different worlds through literature.
+## 📊 GitHub Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inuwamobarak&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark)
 
-Feel free to connect with me or reach out if you have any questions or want to discuss exciting ideas. Let's collaborate and create something amazing together!
+## 🌟 Personal Touch 
+Beyond technology, I find joy in fishing, swimming, and playing jazz drums. These activities provide a perfect balance to my technical pursuits.
 
-💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️
+In my downtime, I immerse myself in literature, with a fondness for works like [The Solitaire Mystery](https://en.wikipedia.org/wiki/The_Solitaire_Mystery). Exploring different worlds through literature is a fascinating escape.
+
+Feel free to connect with me or reach out for discussions. Let's collaborate and create something extraordinary together!
+
+💼 LinkedIn: [Mobarak's LinkedIn Profile](https://www.linkedin.com/in/inuwamobarak/)
