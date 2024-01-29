@@ -27,16 +27,14 @@ I'm Mobarak, an AI Engineer at Zarttech, based in Nigeria. 🌍 I specialize in 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 🌐 Modern LLM Stacks
-- [OpenAI GPT](https://openai.com) ![OpenAI](https://img.shields.io/badge/-OpenAI-0082C4?style=flat-square&logo=openai&logoColor=white)
-- [Google BERT](https://github.com/google-research/bert) ![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white)
-- [Facebook RoBERTa](https://pytorch.org/hub/pytorch_fairseq_roberta) ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
-
-- Stable Diffusion
-- Hugging Face Transformers ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-563D7C?style=flat-square&logo=hugging-face&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-0082C4?style=flat-square&logo=openai&logoColor=white)
+![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white)
+![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-563D7C?style=flat-square&logo=hugging-face&logoColor=white)
 
 ## 🎵 Personal Touch
-Beyond technology, I find joy in fishing, swimming, and playing jazz drums. 🎶 They provide a balance to my technical pursuits and keep me inspired.
+Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
 
 When I'm not coding or diving into data, I find solace in books like [The Solitaire Mystery](https://en.wikipedia.org/wiki/The_Solitaire_Mystery). 📚 It's fascinating to explore different worlds through literature.
 
-Feel free to connect with me or reach out for discussions. Let's collaborate and create something extraordinary together! 💼 [LinkedIn](https://www.linkedin.com/in/inuwamobarak/)
+💼 [LinkedIn](https://www.linkedin.com/in/inuwamobarak/)
