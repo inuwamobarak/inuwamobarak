@@ -30,11 +30,7 @@ I'm Mobarak, an AI Engineer at Zarttech, based in Nigeria. 🌍 I specialize in 
 - [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
 - [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
 - [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
-```
-## 🎵 Personal Touch
-Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
 
-When I'm not coding or diving into data, I find solace in books like [The Solitaire Mystery](https://en.wikipedia.org/wiki/The_Solitaire_Mystery). 📚 It's fascinating to explore different worlds through literature.
-```
+Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
 
 💼 [LinkedIn](https://www.linkedin.com/in/inuwamobarak/)
