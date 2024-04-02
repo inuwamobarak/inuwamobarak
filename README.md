@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Mobarak, an AI Engineer at Zarttech, based in Nigeria. 🌍 I specialize in crafting AI software products with exciting base models (LLMs, SD) from Huggingface 🤗. 🚀
+I'm Mobarak, an AI Engineer at Zarttech, based in Nigeria. 🌍 🤗 🚀
 
 ## 🌟 Interests
 - Large Language Models (LLMs)
