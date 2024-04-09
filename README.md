@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Mobarak, an AI Engineer at Zarttech, based in Nigeria. 🌍 🤗 🚀
+I'm Mobarak, an AI Engineer at Zarttech. 🌍 🤗 🚀
 
 ## 🌟 Interests
 - Large Language Models (LLMs)
