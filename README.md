@@ -17,7 +17,7 @@ I'm Mobarak, an AI Engineer at Zarttech, based in Nigeria. 🌍 🤗 🚀
 ![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-563D7C?style=flat-square&logo=hugging-face&logoColor=white)
-
+<!--
 ## 📚 Publications
 - [PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
 - [Vision Transformers (ViT) in Image Captioning](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/) using Pretrained ViT Models
@@ -30,7 +30,7 @@ I'm Mobarak, an AI Engineer at Zarttech, based in Nigeria. 🌍 🤗 🚀
 - [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
 - [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
 - [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
-
+-->
 Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
 
 💼 [LinkedIn](https://www.linkedin.com/in/inuwamobarak/)
