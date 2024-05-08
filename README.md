@@ -10,6 +10,7 @@ I'm an AI Engineer based in Nigeria. 🌍 🤗 🚀
 - Generative AI (GenAI)
 - Domain Specific AI Research
 
+
 ## 
 
 <!--
