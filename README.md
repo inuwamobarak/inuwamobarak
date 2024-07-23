@@ -9,7 +9,8 @@ I'm an AI Engineer based in Nigeria. 🌍 🤗 🚀
 - Deep Learning (DL)
 - Generative AI (GenAI)
 - Domain Specific AI Research
-## 
+##
+
 
 <!--
 ## 🔧 Tech Stack
@@ -35,7 +36,7 @@ I'm an AI Engineer based in Nigeria. 🌍 🤗 🚀
 - [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
 - [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
 - [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
-
-Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
 -->
+Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
+
 💼 [LinkedIn](https://www.linkedin.com/in/inuwamobarak/)
