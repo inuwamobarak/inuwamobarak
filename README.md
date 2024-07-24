@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm an AI Engineer based in Nigeria. 🌍 🤗 🚀
+I'm an AI Engineer based in Nigeria. 🌍  🤗  🚀
 
 ## 🌟 Interests
 - Large Language Models (LLMs)
