@@ -9,8 +9,8 @@ I'm an AI Engineer based in Nigeria. 🌍  🤗  🚀
 - Deep Learning (DL)
 - Generative AI (GenAI)
 - Domain Specific AI Research
-##
 
+##
 
 <!--
 ## 🔧 Tech Stack
