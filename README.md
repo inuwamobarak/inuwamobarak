@@ -2,7 +2,7 @@
 
 I'm an AI Engineer based in Nigeria. 🌍  🤗  🚀
 
-Currently researching anti-prompt injection techniques to make LLMs foolproof/more secured and the best practices in LLM agent microservices architectures.
+Currently researching anti-prompt injection techniques to make LLMs foolproof/more secured and the best practices in LLM agents microservice architecture.
 
 ## 🌟 Interests
 - Large Language Models (LLMs)
