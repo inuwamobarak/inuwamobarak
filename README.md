@@ -25,6 +25,20 @@ Currently researching anti-prompt injection techniques to make LLMs foolproof/mo
 ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-563D7C?style=flat-square&logo=hugging-face&logoColor=white)
 
+
+
+
+I am a link between all the powerful base models on Hugingface and the enterprise software products that need them. Think AI-powered products with Machine Learning, Generative Artificial Intelligence (GenAI) including Transformer base models, Large Language Models(LLMs) like Llama, Mistral, Gemma, GPT, and Stable diffusion(SD) tasks such as text2text, text2image, image2image, image2text.
+
+My professional journey revolves around conducting research and applying AI solutions to solving business challenges by collaborating on building both Microservice and Monolithic architectures using best practices. These solutions not only drive positive business outcomes but also leave a significant impact while driving innovation and creating value across various domains, including retail, health, fashion, transport, insurance, and finance.
+
+Currently researching anti-prompt injection strategies to make LLMs foolproof and best practices in LLM agent microservices.
+
+Outside AI, I have a passion for music, and I express my creativity and find relaxation by playing the drums. Feel free to connect with me to discuss AI, share insights, or simply chat about music
+
+
+
+
 -->
 ## 📚 Publications
 - [PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
