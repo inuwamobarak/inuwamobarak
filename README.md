@@ -39,7 +39,6 @@ Outside AI, I have a passion for music, and I express my creativity and find rel
 
 
 
--->
 ## 📚 Publications
 - [PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
 - [Vision Transformers (ViT) in Image Captioning](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/) using Pretrained ViT Models
@@ -53,6 +52,7 @@ Outside AI, I have a passion for music, and I express my creativity and find rel
 - [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
 - [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
+-->
 
 Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
 
