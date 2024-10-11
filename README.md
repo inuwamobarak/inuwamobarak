@@ -56,4 +56,4 @@ Outside AI, I have a passion for music, and I express my creativity and find rel
 
 Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
 
-💼 [LinkedIn](https://www.linkedin.com/in/inuwamobarak/)
+💼 [Let us connect on LinkedIn: ](https://www.linkedin.com/in/inuwamobarak/)
