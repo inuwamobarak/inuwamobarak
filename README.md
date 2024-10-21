@@ -37,7 +37,7 @@ Currently researching anti-prompt injection strategies to make LLMs foolproof an
 Outside AI, I have a passion for music, and I express my creativity and find relaxation by playing the drums. Feel free to connect with me to discuss AI, share insights, or simply chat about music
 
 
-
+-->
 
 ## 📚 Publications
 - [PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
@@ -52,7 +52,7 @@ Outside AI, I have a passion for music, and I express my creativity and find rel
 - [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
 - [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
--->
+
 
 Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
 
