@@ -41,7 +41,7 @@ Outside AI, I have a passion for music, and I express my creativity and find rel
 
 ## 📚 Publications
 - [PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
-- [Vision Transformers (ViT) in Image Captioning](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/) using Pretrained ViT Models
+- [Vision Transformers (ViT) in Image Captioning using Pretrained ViT Models](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/)
 - [Image-to-Image Generation with depth2img Pre-Trained Models](https://www.analyticsvidhya.com/blog/2023/05/image-to-image-generation-using-depth2img-pre-trained-models/)
 - [Guide to Image-to-Image Diffusion: A Hugging Face Pipeline](https://www.analyticsvidhya.com/blog/2023/05/how-to-generate-images-using-stable-diffusion/)
 - [Deep Learning for Fashionistas: African Attire Detection](https://www.analyticsvidhya.com/blog/2023/04/deep-learning-for-fashionistas-african-attire-detection/)
