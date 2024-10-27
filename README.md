@@ -40,12 +40,16 @@ Outside AI, I have a passion for music, and I express my creativity and find rel
 -->
 
 ## 📚 Publications
+- [LitServe: The Future of Scalable AI Model Serving](https://www.analyticsvidhya.com/blog/2024/10/litserve/)
+- [MoE-LLaVA: Advancing Sparse LVLMs for Improved Efficiency](https://www.analyticsvidhya.com/blog/2024/02/moe-llava-advancing-sparse-lvlms-for-improved-efficiency/)
+- [Text-to-Image Revolution: Segmind’s SD-1B Model Emerges as the Fastest in the Game](https://www.analyticsvidhya.com/blog/2023/11/text-to-image-revolution-segminds-sd-1b-model-emerges-as-the-fastest-in-the-game/)
+- [KOSMOS-2: A Multimodal Large Language Model by Microsoft](https://www.analyticsvidhya.com/blog/2023/11/kosmos-2-a-multimodal-large-language-model-by-microsoft/)
+- [Enhancing Scientific Document Processing with Nougat](https://www.analyticsvidhya.com/blog/2023/11/enhancing-scientific-document-processing-with-nougat/)
+- [Introducing OWLv2: Google’s Breakthrough in Zero-Shot Object Detection](https://www.analyticsvidhya.com/blog/2023/10/owlv2-googles-breakthrough-in-zero-shot-object-detection/)
 - [PandasAI: A GenAI-powered Data Analysis Library](https://www.analyticsvidhya.com/blog/2023/07/pandasai-a-genai-powered-data-analysis-library/)
 - [Vision Transformers (ViT) in Image Captioning using Pretrained ViT Models](https://www.analyticsvidhya.com/blog/2023/06/vision-transformers/)
 - [Image-to-Image Generation with depth2img Pre-Trained Models](https://www.analyticsvidhya.com/blog/2023/05/image-to-image-generation-using-depth2img-pre-trained-models/)
 - [Guide to Image-to-Image Diffusion: A Hugging Face Pipeline](https://www.analyticsvidhya.com/blog/2023/05/how-to-generate-images-using-stable-diffusion/)
-- [Deep Learning for Fashionistas: African Attire Detection](https://www.analyticsvidhya.com/blog/2023/04/deep-learning-for-fashionistas-african-attire-detection/)
-- [Deep Learning in Banking: Colombian Peso Banknote Detection](https://www.analyticsvidhya.com/blog/2023/02/deep-learning-in-banking-colombian-peso-banknote-detection/)
 - [Introduction to Nature-inspired Optimization Algorithms (NIOAs)](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-nature-inspired-optimization-algorithms-nioas/)
 - [Amazon Sagemaker Tool for MLOps](https://www.analyticsvidhya.com/blog/2022/11/amazon-sagemaker-tool-for-mlops/)
 - [MLOps In Educational Data Mining](https://www.analyticsvidhya.com/blog/2022/10/mlops-in-educational-data-mining/)
