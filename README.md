@@ -1,6 +1,6 @@
-# Hello! 👋
+# Hello! 🤗
 
-I'm an AI Engineer based in Nigeria 🇳🇬 🌍 🤗 🚀
+I'm an AI Engineer based in Nigeria 🇳🇬 🌍
 
 Currently researching anti-prompt injection techniques to make LLMs foolproof/more secured and the best practices in LLM agents microservice architecture.
 
@@ -58,6 +58,6 @@ Outside AI, I have a passion for music, and I express my creativity and find rel
 
 
 
-Beyond technology, I find joy in fishing, swimming, and playing jazz drums.
+Beyond technology, I find joy in fishing, swimming, and playing jazz drums 🚀
 
 💼 [My LinkedIn](https://www.linkedin.com/in/inuwamobarak/)
