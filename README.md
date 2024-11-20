@@ -4,6 +4,8 @@ I'm an AI Engineer based in Nigeria 🇳🇬 🌍
 
 Currently researching anti-prompt injection techniques to make LLMs foolproof/more secured and the best practices in LLM agents microservice architecture.
 
+I enjoy building and exploring the amazing models on @Huggingface and also publishing AI articles. 
+
 <!--
 ## 🌟 Interests
 - Large Language Models (LLMs)
@@ -36,7 +38,7 @@ Currently researching anti-prompt injection strategies to make LLMs foolproof an
 
 Outside AI, I have a passion for music, and I express my creativity and find relaxation by playing the drums. Feel free to connect with me to discuss AI, share insights, or simply chat about music
 
-
+-->
 
 
 ## 📚 Publications
@@ -56,7 +58,7 @@ Outside AI, I have a passion for music, and I express my creativity and find rel
 - [Non-Generalization and Generalization of Machine learning Models](https://www.analyticsvidhya.com/blog/2022/10/non-generalization-and-generalization-of-machine-learning-models/)
 - [Read More...👀](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
--->
+
 
 Beyond technology, I find joy in fishing, swimming, and playing jazz drums 🚀
 
