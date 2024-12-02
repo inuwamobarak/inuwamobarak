@@ -2,13 +2,14 @@
 
 I'm an AI Engineer based in Nigeria 🇳🇬 🌍
 
-Currently researching anti-prompt injection techniques to make LLMs foolproof/more secured and the best practices in LLM agents microservice architecture.
+Currently researching Large Reasoning Models(LRMs) and the best practices in LLM agents microservice architecture.
 
 I enjoy building and exploring the amazing models on @Huggingface and also publishing AI articles. 
 
 <!--
 ## 🌟 Interests
 - Large Language Models (LLMs)
+- Large Reasoning Models (LRMs)
 - Stable Diffusion (SD)
 - Machine Learning (ML)
 - Deep Learning (DL)
