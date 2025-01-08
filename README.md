@@ -13,7 +13,6 @@ I enjoy building and exploring the amazing models on @Huggingface and also publi
 - Stable Diffusion (SD)
 - Machine Learning (ML)
 - Deep Learning (DL)
-- Generative AI (GenAI)
 - Domain Specific AI Research
 
 <!--
