@@ -7,6 +7,7 @@ Currently researching Large Reasoning Models(LRMs) and the best practices in LLM
 I enjoy building and exploring the amazing models on @Huggingface and also publishing AI articles. 
 
 
+<!--
 ## 🌟 Interests
 - Large Language Models (LLMs)
 - Large Reasoning Models (LRMs)
@@ -15,7 +16,6 @@ I enjoy building and exploring the amazing models on @Huggingface and also publi
 - Deep Learning (DL)
 - Domain Specific AI Research
 
-<!--
 ##
 
 ## 🔧 My Tech Stack
