@@ -2,7 +2,7 @@
 
 I'm an AI Engineer based in Nigeria 🇳🇬 🌍
 
-Currently researching Large Reasoning Models(LRMs) and the best practices in LLM agents microservice architecture.
+Currently researching Large Reasoning Models(LRMs), AI Agents and the best practices in LLM agents microservice architecture.
 
 I enjoy building and exploring the amazing models on @Huggingface.
 
