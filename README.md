@@ -6,7 +6,7 @@ Currently researching Large Reasoning Models(LRMs) and the best practices in LLM
 
 I enjoy building and exploring the amazing models on @Huggingface.
 
-When I research, I wrap it up with an article. Checkout my publications here: ![Authorship](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
+When I research, I wrap it up with an article. Checkout my publications here: [Authorship](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
 
 
