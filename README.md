@@ -6,11 +6,12 @@ Currently researching Large Reasoning Models(LRMs), AI Agents and the best pract
 
 I enjoy building and exploring the amazing models on @Huggingface.
 
-When I research, I wrap it up with an article. Checkout my publications here: [Authorship](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
+Checkout my publications here: [Authorship](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
 
 
 <!--
+When I research, I wrap it up with an article. 
 ## 🌟 Interests
 - Large Language Models (LLMs)
 - Large Reasoning Models (LRMs)
