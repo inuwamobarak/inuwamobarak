@@ -1,12 +1,12 @@
 # Hello! 🤗
 
-I'm an AI Engineer based in Nigeria 🇳🇬 🌍
+I'm an AI Engineer from Nigeria 🇳🇬 based in Germany 🇩🇪 🌍
 
-Currently researching Large Reasoning Models(LRMs), AI Agents and the best practices in LLM agents microservice architecture.
+Currently working with Large Reasoning Models(LRMs), AI Agents and the best practices in LLM agents microservice architecture (APIs).
 
 I enjoy building and exploring the amazing models on @Huggingface.
 
-Checkout my publications here: [Authorship](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
+Checkout my hands on publications here: [Authorship](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
 
 
