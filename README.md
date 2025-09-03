@@ -2,7 +2,7 @@
 
 I'm an AI Engineer from Nigeria 🇳🇬 based in Germany 🇩🇪 🌍
 
-Currently working with Large Reasoning Models(LRMs), AI Agents and the best practices in LLM agents microservice architecture (APIs).
+Currently mastering Edge AI at RPTU, working with Large Reasoning Models(LRMs), AI Agents and the best practices in LLM agents microservice architecture (APIs).
 
 I enjoy building and exploring the amazing models on @Huggingface.
 
