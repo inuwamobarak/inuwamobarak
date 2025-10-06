@@ -1,10 +1,6 @@
 # Hello! 🤗
 
-I'm an AI Engineer from Nigeria 🇳🇬 based in Germany 🇩🇪 🌍
-
-Currently mastering Embedded Computing at RPTU and working with LLMs, AI Agents and the best practices in LLM agents microservice architecture (APIs).
-
-I enjoy building and exploring the amazing models on @Huggingface.
+I'm an AI Engineer from Nigeria 🇳🇬 based in Germany 🇩🇪 🌍 I am currently doing Embedded Computing at RPTU and working with LLMs, AI Agents and the best practices in LLM agents microservice architecture (APIs). I enjoy building and exploring the amazing models on @Huggingface.
 
 Checkout my hands on publications here: [Authorship](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
 
